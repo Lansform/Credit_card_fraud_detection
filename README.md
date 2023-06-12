@@ -6,7 +6,7 @@ This project focuses on building a credit card fraud detection system using mach
 
 The dataset used for this project contains credit card transactions, including features such as transaction amount, time, and various anonymized numerical features. The dataset is labeled, with a binary class indicating whether the transaction is normal (0) or fraudulent (1).
 
-The dataset used in this project can be found in kaggle.
+The dataset used in this project can be found in https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv
 
 ## Dependencies
 
